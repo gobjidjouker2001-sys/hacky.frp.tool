@@ -9,7 +9,7 @@
 
 ## 🛠️ التثبيت والتشغيل
 ```bash
-git clone [https://github.com/gobjidjouker2001-sys/hackyfrp.git](https://github.com/gobjidjouker2001-sys/hackyfrp.git)
+git clone [https://github.com/gobjidjouker2001-sys/hacky.frp.tool.git](https://github.com/gobjidjouker2001-sys/hacky.frp.tool.git)
 cd hackyfrp
 chmod +x start_hackyfrp.sh
 sudo ./start_hackyfrp.sh
